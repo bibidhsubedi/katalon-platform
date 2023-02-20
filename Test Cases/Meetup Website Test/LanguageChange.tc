@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>As a user, I need to be able to change the language so that I can view it in my preferred language.</description>
+   <name>LanguageChange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4223730-7864-4360-996a-610cd34e3356</testCaseGuid>
+</TestCaseEntity>

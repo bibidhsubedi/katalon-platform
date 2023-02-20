@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointDemo</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/New Test Data</source-url>
+   </source-info>
+   <taken-date>2023-02-19T12:11:05.557</taken-date>
+   <column-names>
+      <column-name>keyword</column-name>
+      <column-name>location</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "tennis",
+      "checked": true
+    },
+    {
+      "value": "Brisbane",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "cricket",
+      "checked": true
+    },
+    {
+      "value": "Brisbane",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "football",
+      "checked": true
+    },
+    {
+      "value": "Brisbane",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

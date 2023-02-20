@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0df14263-6125-46e2-8afa-492f00b9235c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>88f8721b-2cdc-4fc8-be64-95791e31f0b1</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>88f8721b-2cdc-4fc8-be64-95791e31f0b1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>keyword</value>
+      <variableId>8c010265-1bf4-4074-bdb0-178df326a8ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>88f8721b-2cdc-4fc8-be64-95791e31f0b1</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>location</value>
+      <variableId>75f37b77-3e15-42ca-a7b6-536949c4fe6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c010265-1bf4-4074-bdb0-178df326a8ea</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75f37b77-3e15-42ca-a7b6-536949c4fe6f</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>

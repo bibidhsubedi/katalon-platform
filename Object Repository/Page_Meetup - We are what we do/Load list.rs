@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Load list</name>
+   <tag></tag>
+   <elementGuidId>e337059e-271d-460f-8fce-541f07268ea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/div[2]/main/div/div[4]/div/form/div/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-white.z-dropdown.border.border-gray3.px-4.py-3.rounded.space-y-3.shadow-lg.d9gzt42.w-full.h-fit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6f090fc3-e5a4-455a-8cf2-a2eb315c7a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white z-dropdown border border-gray3 px-4 py-3 rounded space-y-3 shadow-lg d9gzt42 w-full h-fit</value>
+      <webElementGuid>c6afef58-27f4-44e3-8910-cddb4bf7923c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popper-reference-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5aa6526a-7514-4c8a-aa73-c9bd8980740a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popper-escaped</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>e1e26dcf-a09e-4eb2-8f74-2685a8e81585</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-popper-placement</name>
+      <type>Main</type>
+      <value>bottom-start</value>
+      <webElementGuid>7ed2f78f-f6ff-4f02-8647-9ca7c0fef07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CityBrisbane, AustraliaBrisbane, CABrisbane, NDBrisbin, PABrisben, NY</value>
+      <webElementGuid>3c64e02d-9237-4080-8d64-4ac175ff0b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;flex flex-col flex-grow z-10&quot;]/main[@class=&quot;flex flex-col items-center flex-grow relative overflow-hidden&quot;]/div[@class=&quot;px-6 sm:px-4 xl:px-0 md:max-w-screen w-full&quot;]/div[@class=&quot;grid lg:grid-cols-2 md:grid-cols-1 mt-20&quot;]/div[@class=&quot;relative mb-6 lg:mb-0 mb-6 lg:mr-8&quot;]/form[1]/div[@class=&quot;flex-none sm:flex mb-6&quot;]/div[@class=&quot;w-full rtf8g4e&quot;]/div[@class=&quot;flex-grow w-full&quot;]/div[@class=&quot;bg-white z-dropdown border border-gray3 px-4 py-3 rounded space-y-3 shadow-lg d9gzt42 w-full h-fit&quot;]</value>
+      <webElementGuid>6ba3d5d3-df85-4198-8e19-3625c753acde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/div[2]/main/div/div[4]/div/form/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>1bbaf43b-de3a-4107-95de-8498eadfa770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose your location'])[1]/following::div[3]</value>
+      <webElementGuid>d52f7b3c-68e5-403d-95fa-055c3a52154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for events using a keyword'])[1]/following::div[7]</value>
+      <webElementGuid>73ffe45d-68cd-45b4-8dca-f2c6b93dc14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>ae416e2b-3f71-4c6a-bbff-ae82bd5fe383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CityBrisbane, AustraliaBrisbane, CABrisbane, NDBrisbin, PABrisben, NY' or . = 'CityBrisbane, AustraliaBrisbane, CABrisbane, NDBrisbin, PABrisben, NY')]</value>
+      <webElementGuid>30a4a4d9-2059-4223-8517-f45606907a0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

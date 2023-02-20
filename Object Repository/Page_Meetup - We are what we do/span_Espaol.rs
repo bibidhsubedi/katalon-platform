@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Espaol</name>
+   <tag></tag>
+   <elementGuidId>1d8749f3-61bf-406d-b1e6-994c119659cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page']/header/div[2]/div/div/div/div[2]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de18a802-3d18-430f-aaf6-d9c02c5b5469</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md:block hidden</value>
+      <webElementGuid>3d43b8c8-a762-43e0-8553-44b2ded18f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Español</value>
+      <webElementGuid>f75bb3cb-aa85-4f13-8cbd-b8855a9d58af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/header[@class=&quot;z-50 top-0 bg-transparent mb-10 mb-0&quot;]/div[@class=&quot;px-6 sm:px-4 xl:px-0 xl:px-4 flex flex-col&quot;]/div[@class=&quot;transition-all ease-linear duration-300 a13oqi2j overflow-hidden sm:overflow-visible&quot;]/div[@class=&quot;sm:block&quot;]/div[@class=&quot;flex flex-row items-center justify-between space-x-4 du3dmzv&quot;]/div[@class=&quot;flex flex-row space-x-5 items-center&quot;]/div[1]/button[@class=&quot;flex items-center ds-font-small-medium text-gray7 cursor-pointer&quot;]/span[@class=&quot;md:block hidden&quot;]</value>
+      <webElementGuid>704b070c-0650-4fd5-8e1a-2df68efdfccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page']/header/div[2]/div/div/div/div[2]/div/button/span</value>
+      <webElementGuid>629fc295-4580-4a84-859f-bd67707b4643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to content'])[1]/following::span[1]</value>
+      <webElementGuid>ce0015ff-c30d-4a2d-86ce-ae797974b480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::span[1]</value>
+      <webElementGuid>ccaf4ffd-0ba6-47dd-8c65-b5fae7538919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::span[1]</value>
+      <webElementGuid>b2063cc3-0cd2-4c95-976b-e1e6ec0d4681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Español']/parent::*</value>
+      <webElementGuid>f73a1553-fbfd-41e4-bdb1-4fc46ae3f0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>eeebeaf7-057e-4754-92d3-173fd810a69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Español' or . = 'Español')]</value>
+      <webElementGuid>62fce394-22ed-4807-ae81-dda8806c9bc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

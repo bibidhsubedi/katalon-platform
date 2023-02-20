@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Espaol</name>
+   <tag></tag>
+   <elementGuidId>cb77f172-87b5-40c9-8eb6-4ced36d34627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div/div/div/label[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bdb49f5a-1dd0-4986-bb54-1f53ddd114c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cursor-pointer flex</value>
+      <webElementGuid>45237b20-ae14-4547-827e-d8435981007d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>es</value>
+      <webElementGuid>9174ed3d-99e4-4b99-85ee-10c0075407ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Español</value>
+      <webElementGuid>812c1870-7276-4ace-bf29-650e4783e705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;inset-0 fixed z-modal flex flex-col items-center justify-end sm:justify-center&quot;]/div[@class=&quot;sm:pl-8 sm:pr-6 md:pl-12 md:pr-10 xl:pt-24 xl:pb-16 xl:pr-52 xl:pl-52 xl:max-w-max hidden relative sm:block bg-white rounded-lg shadow-lg pl-12 pr-10 pt-9 pb-8 z-50 md:max-w-prose max-h-screen overflow-y-auto&quot;]/div[@class=&quot;hidden sm:block xmedia&quot;]/div[@class=&quot;mb-5 md:mb-16 space-y-5 grid sm:grid-flow-col sm:grid-cols-3 sm:grid-rows-5 gap-y-0 gap-x-2 md:gap-x-16 items-baseline&quot;]/label[@class=&quot;cursor-pointer flex&quot;]</value>
+      <webElementGuid>0ba73562-1398-41b8-af34-77c884fc86c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div/label[4]</value>
+      <webElementGuid>0b10e1d1-97ab-4250-a33e-a356b22646d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deutsch'])[1]/following::label[1]</value>
+      <webElementGuid>8dfaa773-6d1d-4c7c-8a78-627d296bf2cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English (Australia)'])[1]/following::label[2]</value>
+      <webElementGuid>15ca9c83-01ac-43a7-ba02-179881fad575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Español (España)'])[1]/preceding::label[1]</value>
+      <webElementGuid>75f98cdf-0e2c-4a11-afc4-ea742087dd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Français'])[1]/preceding::label[2]</value>
+      <webElementGuid>25b1f510-059a-467c-b961-022fccf92a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Español']/parent::*</value>
+      <webElementGuid>c0e3ec73-2f15-4a10-aee8-d0ef617dcbb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]</value>
+      <webElementGuid>f3196ead-02c8-43fb-9987-055e61657917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Español' or . = ' Español')]</value>
+      <webElementGuid>97501456-42e1-43e1-bb8e-36696946de56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

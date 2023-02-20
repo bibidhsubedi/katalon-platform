@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test the demo Katalon Website in Recording Mode.</description>
+   <name>Test1_RecordingMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ca5831e-b03e-4568-a6cf-b7453227127a</testCaseGuid>
+</TestCaseEntity>

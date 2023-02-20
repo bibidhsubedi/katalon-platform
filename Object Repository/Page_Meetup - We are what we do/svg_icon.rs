@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_icon</name>
+   <tag></tag>
+   <elementGuidId>02d1c504-bb50-45a9-99da-4f535860d484</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#close > div > div > svg.injected-svg.stroke-current.stroke-1.fill-current</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>95a5e5b6-67eb-4b4c-98b7-53d9411b9e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>c5f57397-0e67-4a9a-8cfa-42aa9614c927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>75d60b46-53e1-4da1-97d7-138d54f6858f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>bc626a76-49ef-4aab-a71f-6b3d83d65c76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>41f6088c-01f6-47f3-b6aa-72cf95f92766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>728eb734-f0a4-403e-a847-4601fe2ee332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>injected-svg stroke-current stroke-1 fill-current</value>
+      <webElementGuid>814e7eac-b848-4c6a-8f9b-ade086c6d2dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://secure.meetupstatic.com/next/images/design-system-icons/close-outline.svg</value>
+      <webElementGuid>324b5280-b9de-409c-95c0-be9b174846a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>007136d6-515f-42d0-8bbc-5d2673438d96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>icon-91</value>
+      <webElementGuid>0ab6ce00-4767-4876-a159-9dde35595087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>icon
+
+</value>
+      <webElementGuid>60c43db3-4745-4e27-aa5e-79afb8103544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;inset-0 fixed z-modal flex flex-col items-center justify-end sm:justify-center&quot;]/div[@class=&quot;pl-0 pr-0 sm:pl-10 sm:pr-10 a27i9ef hidden relative sm:block bg-white rounded-lg shadow-lg pl-12 pr-10 pt-9 pb-8 z-50 md:max-w-prose max-h-screen overflow-y-auto mcm12el&quot;]/button[@id=&quot;close&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg stroke-current stroke-1 fill-current&quot;]</value>
+      <webElementGuid>9553f3d8-6e06-4f24-82f6-56740c2dd3b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>10a2ede5-18ce-4435-b9a9-56eeac3d6e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>9dccbfeb-f5c4-499c-b8b4-d789a44d1667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You are on register view'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>845dcd30-6715-4b93-a1fd-0b4e91c6eddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[3]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>61b144b8-4e13-4c68-8bad-fb6636163d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'icon
+
+' or . = 'icon
+
+')]</value>
+      <webElementGuid>b2099817-742b-448d-a341-649a722a7d9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

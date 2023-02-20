@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a demo test of the Website Meetup.</description>
+   <name>SearchEvent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>870305c2-717a-412d-85c7-6f5e1fe68b44</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f0ffb501-5cf0-4597-a3ad-070079efa61a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f0ffb501-5cf0-4597-a3ad-070079efa61a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>keyword</value>
+      <variableId>56a06c6c-59cf-4688-9737-b376faf5f0f1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f0ffb501-5cf0-4597-a3ad-070079efa61a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>location</value>
+      <variableId>e32780c1-d861-45ad-8b9f-386b0ffe4895</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56a06c6c-59cf-4688-9737-b376faf5f0f1</id>
+      <masked>false</masked>
+      <name>keyword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e32780c1-d861-45ad-8b9f-386b0ffe4895</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>
