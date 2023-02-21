@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Load More</name>
+   <tag></tag>
+   <elementGuidId>014c94f5-3784-44aa-8dc0-65ac4230c2ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.load_more.more.more-e-liquids</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-1651593286f10ba75c']/div/div/div/div[2]/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93cc3fcd-1533-4808-bc4d-7525334c9a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn load_more more more-e-liquids</value>
+      <webElementGuid>3492f69a-6148-4523-a9a0-0d7e5f1c24eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>btn-handle</name>
+      <type>Main</type>
+      <value>more-e-liquids</value>
+      <webElementGuid>10c850cc-dcbe-4899-8ce9-798bc89a7ce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>link</name>
+      <type>Main</type>
+      <value>/?page=2</value>
+      <webElementGuid>6723d879-ceda-4626-bbf5-33aa13df5245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Load More</value>
+      <webElementGuid>80209d7a-5c36-443e-bdd7-833e8a395f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-1651593286f10ba75c&quot;)/div[@class=&quot;page-width distance&quot;]/div[@class=&quot;block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;custom-collections-grid row grid--view-items product__items clearfix custom-collections-grid-more-e-liquids&quot;]/div[@class=&quot;vertically-align-content col-12 text-center vertically-align-content-more-e-liquids&quot;]/div[@class=&quot;vertically-align-child&quot;]/div[@class=&quot;btn load_more more more-e-liquids&quot;]</value>
+      <webElementGuid>0e572c9f-14c2-4cc4-b1f0-e2a802cb3609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-1651593286f10ba75c']/div/div/div/div[2]/div[5]/div/div</value>
+      <webElementGuid>57b2c94a-4a82-4183-b838-57027c2e0759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$14.95'])[1]/following::div[7]</value>
+      <webElementGuid>4d46f5e8-e8ae-405e-81ff-44c525f645d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aussie Mango eLiquid 60ml'])[1]/following::div[8]</value>
+      <webElementGuid>b90af861-bda2-4af3-928e-9ce57c63fc63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular Brands'])[1]/preceding::div[1]</value>
+      <webElementGuid>77af34d6-6333-4b0b-bdb6-c7bcb95b42a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GEEKVAPE'])[1]/preceding::div[4]</value>
+      <webElementGuid>5c084ba3-e378-449a-885d-af54642926be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Load More']/parent::*</value>
+      <webElementGuid>ed85a0d0-271f-4524-870b-839f423501c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]/div/div</value>
+      <webElementGuid>685bbaab-024f-40a2-8430-797e3f3f61c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Load More' or . = 'Load More')]</value>
+      <webElementGuid>50e9b757-f2b1-46e5-b598-19eee60cf8fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

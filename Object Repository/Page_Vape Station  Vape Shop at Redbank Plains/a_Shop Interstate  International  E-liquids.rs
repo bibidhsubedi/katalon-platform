@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop Interstate  International  E-liquids</name>
+   <tag></tag>
+   <elementGuidId>4d01f82b-00fa-47a2-b244-050723f00bce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-1624437771e6fd7ada']/div/div/div[3]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4419ed3f-ce91-4561-b8ec-a4dd83d32ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/inter-e-liquid</value>
+      <webElementGuid>ad7f645c-eec7-4715-893b-61edfa5dfeeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-uppercase</value>
+      <webElementGuid>db46afd7-17fb-483f-aa6b-0db24b697012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop Interstate &amp; International  E-liquids</value>
+      <webElementGuid>ac2e61fb-574f-428d-9e23-d61ef43bf1d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-1624437771e6fd7ada&quot;)/div[@class=&quot;distance&quot;]/div[@class=&quot;row spacing-0&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-xs-12 gallery-image_column hover-image&quot;]/div[@class=&quot;gallery-image__item lazyloaded&quot;]/div[@class=&quot;gallery-image__caption&quot;]/div[@class=&quot;button-block&quot;]/a[@class=&quot;text-uppercase&quot;]</value>
+      <webElementGuid>0139ef0a-1d2f-4939-913a-f92c2060db66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-1624437771e6fd7ada']/div/div/div[3]/div/div/div/a</value>
+      <webElementGuid>9e0bde84-c2ba-448d-8e73-3fa67a211f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shop Interstate &amp; International  E-liquids')]</value>
+      <webElementGuid>7472c2f0-a459-47fd-9a5d-a632e154851e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop 100ml E-Liquids'])[1]/following::a[2]</value>
+      <webElementGuid>75100779-4ac1-4db1-b95e-16ab76cb5f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop 60ml E-liquids'])[1]/following::a[4]</value>
+      <webElementGuid>3ae196e4-07db-4ce6-9326-67ddbc768a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured Categories'])[1]/preceding::a[1]</value>
+      <webElementGuid>79657ec9-c79c-4f44-bc18-55d803f1a0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COILS'])[2]/preceding::a[2]</value>
+      <webElementGuid>d2db6ef7-ab4c-4942-802e-92a8c022b369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/collections/inter-e-liquid')])[3]</value>
+      <webElementGuid>544e2465-bf47-4849-880a-2b7688ef0e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a</value>
+      <webElementGuid>3d5c6dea-6cba-4d6e-9775-82fcc414443f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/inter-e-liquid' and (text() = 'Shop Interstate &amp; International  E-liquids' or . = 'Shop Interstate &amp; International  E-liquids')]</value>
+      <webElementGuid>76a8ebeb-2f53-4460-9e27-42edaae12d8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Tanks_img-fluid w-100 ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>24be1976-de65-45f7-926c-07f8c1fc2c41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-162380934602e80ce3']/div/div/div[2]/div/div[3]/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>23507d38-ab2b-4dcb-885b-d95ddd808aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid w-100 ls-is-cached lazyloaded</value>
+      <webElementGuid>13260ad5-99ec-4264-859b-74bf39776f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/2663/3040/files/category_1_768x.jpg?v=1651646705</value>
+      <webElementGuid>19ea5d2b-f9a3-486f-9d8d-12c6a3205bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/2663/3040/files/category_1_768x.jpg?v=1651646705</value>
+      <webElementGuid>18555b46-3ea4-4f35-be4d-1c6c79adeebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-162380934602e80ce3&quot;)/div[@class=&quot;distance&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;box-shop-by&quot;]/div[@class=&quot;grid grid--view-items row&quot;]/div[@class=&quot;product__down col-lg-cus-5 col-md-cus-12&quot;]/div[@class=&quot;img-shop text-center hover-image&quot;]/a[1]/img[@class=&quot;img-fluid w-100 ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>ae6c02c6-5236-4d65-a930-7c5275697651</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-162380934602e80ce3']/div/div/div[2]/div/div[3]/div/a/img</value>
+      <webElementGuid>df6d1370-dd0c-4421-86d2-7931929f4cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/img</value>
+      <webElementGuid>a388bf99-f91e-44c8-a79f-008b921a80e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//cdn.shopify.com/s/files/1/2663/3040/files/category_1_768x.jpg?v=1651646705']</value>
+      <webElementGuid>ece207f5-bac3-45c5-b61b-7edb9fad1d8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

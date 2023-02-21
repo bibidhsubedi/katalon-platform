@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_WE DO NOT SELL NICOTINE AS IT IS ILLEGAL _3aa074</name>
+   <tag></tag>
+   <elementGuidId>dab20acb-b39c-4cc9-9808-9ef02176b0e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#search_widget > form.search-header-inline.search > button.search-header__submit.text-center.btn--link > span.site-header__search-icon > i.zmdi.zmdi-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search_widget']/form/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>758a16b1-cbe5-40ef-8bad-d7873878bd52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zmdi zmdi-search</value>
+      <webElementGuid>153a6073-3f42-4afa-aacb-ee6eece2c03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_widget&quot;)/form[@class=&quot;search-header-inline search&quot;]/button[@class=&quot;search-header__submit text-center btn--link&quot;]/span[@class=&quot;site-header__search-icon&quot;]/i[@class=&quot;zmdi zmdi-search&quot;]</value>
+      <webElementGuid>ecc07314-37d2-4f50-a64e-0f04e5a2e6e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search_widget']/form/button/span/i</value>
+      <webElementGuid>c8cb9c21-0e3c-4038-9ebf-75e3e16608e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/form/button/span/i</value>
+      <webElementGuid>4b6b0ec7-934e-4402-b15a-a57a8da6db9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

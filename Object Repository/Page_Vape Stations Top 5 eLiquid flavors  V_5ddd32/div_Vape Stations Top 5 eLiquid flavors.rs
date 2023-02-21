@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vape Stations Top 5 eLiquid flavors</name>
+   <tag></tag>
+   <elementGuidId>cfc317db-75f2-4099-ab5f-1f3f22f13e82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.article__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-article-template']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a5a08c7-b341-46b4-9433-33096d327197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>article__title</value>
+      <webElementGuid>f1399f72-1d84-4505-bc81-b9a9508da9c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vape Station's Top 5 eLiquid flavors</value>
+      <webElementGuid>4761a3c4-9bae-4554-b1ca-fe93cb59f052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-article-template&quot;)/div[@class=&quot;post&quot;]/div[@class=&quot;article__title&quot;]</value>
+      <webElementGuid>c90c4bd6-1b44-47ad-8c5b-c82ff67e17ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-article-template']/div/div[2]</value>
+      <webElementGuid>4d648cd8-9200-4ef4-852c-c011a68ecc0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='vape station'])[1]/following::div[6]</value>
+      <webElementGuid>1d0ab992-a9c4-48d1-88e7-d1e124879434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vape'])[1]/following::div[6]</value>
+      <webElementGuid>4ab520ce-7b8e-464e-a826-6cac8e82aa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Thirsty Grape Soda at Vape Station Redbank Plains'])[1]/preceding::div[1]</value>
+      <webElementGuid>ca389801-cbe9-4bd2-bbcb-fa6918ca9de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Fruit Monster Strawberry Kiwi Pomegranate at Vape Station Redbank Plains'])[1]/preceding::div[1]</value>
+      <webElementGuid>f1e640b9-fff3-4b65-b4cd-62fa05b59930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>24f714ca-79c6-41d9-b915-76380cfa3104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Vape Station&quot; , &quot;'&quot; , &quot;s Top 5 eLiquid flavors&quot;) or . = concat(&quot;Vape Station&quot; , &quot;'&quot; , &quot;s Top 5 eLiquid flavors&quot;))]</value>
+      <webElementGuid>8ab61abb-d93b-4bb8-9a3f-cb84615c28ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

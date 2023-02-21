@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Eclogy.com_age-overlay act</name>
+   <tag></tag>
+   <elementGuidId>019a572d-bc58-4b1b-8869-0c72ca628a10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.age-overlay.act</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c799240-4977-4219-b709-bb4229f058ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>age-overlay act</value>
+      <webElementGuid>ca0a75c0-d5ac-4353-ab09-260cf9d031f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js svg flexbox csstransforms&quot;]/body[@class=&quot;template-index modal-open&quot;]/strong[1]/div[@class=&quot;age-overlay act&quot;]</value>
+      <webElementGuid>90712d83-9b77-4b91-b11d-7eb5eb96352e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/div[4]</value>
+      <webElementGuid>4429c0ab-85a1-4734-97d7-72af1e374120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

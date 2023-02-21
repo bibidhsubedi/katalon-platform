@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_WE DO NOT SELL NICOTINE AS IT IS ILLEGA_6e7cf5</name>
+   <tag></tag>
+   <elementGuidId>44986522-96f8-4c7b-9705-18782cbb8d5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.js.img-fluid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-nov-header']/div/header/div[3]/div/div/div/div/div/h1/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>53f69686-5a1c-4c62-a9b7-2ed127e0ab12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js img-fluid</value>
+      <webElementGuid>83d7f3c1-4678-4c60-9993-517c64024e27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/2663/3040/files/white_transparent_logo_205x_d1a5015d-198f-4b1b-8840-ce15e7fed7d9_350x.webp?v=1651645014</value>
+      <webElementGuid>98022d2d-c845-4db8-a382-d000847b0766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>VAPE STATION</value>
+      <webElementGuid>b2bc44a8-7312-44e0-baca-0c021d2ddba6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-nov-header&quot;)/div[1]/header[@class=&quot;site-header&quot;]/div[@class=&quot;header-top d-none d-md-block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;hd_ct_tl col-xl-7 col-lg-6 col-md-7&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;contentsticky_logo&quot;]/h1[@class=&quot;h2 site-header__logo mb-0&quot;]/a[@class=&quot;site-header__logo-image&quot;]/img[@class=&quot;js img-fluid&quot;]</value>
+      <webElementGuid>7d3eeac7-c549-4bf5-a984-3c89973e784e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-nov-header']/div/header/div[3]/div/div/div/div/div/h1/a/img</value>
+      <webElementGuid>f2ca2cdb-2e9d-4c7e-8729-34c8f06f5b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='VAPE STATION']</value>
+      <webElementGuid>5cb555a5-f30c-4132-ab40-b65f0dbb89ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/a/img</value>
+      <webElementGuid>12a39cb8-f485-49f4-bee2-b6d762351907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//cdn.shopify.com/s/files/1/2663/3040/files/white_transparent_logo_205x_d1a5015d-198f-4b1b-8840-ce15e7fed7d9_350x.webp?v=1651645014' and @alt = 'VAPE STATION']</value>
+      <webElementGuid>adb33441-266e-4624-89b1-99cf44fbdf6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

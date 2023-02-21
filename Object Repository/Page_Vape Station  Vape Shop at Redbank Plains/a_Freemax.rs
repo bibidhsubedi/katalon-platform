@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Freemax</name>
+   <tag></tag>
+   <elementGuidId>b035ea1f-678a-4747-8f50-b1a589d659a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-316515927841dfcab3c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-316515927841dfcab3c']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>24b80470-455b-448c-911e-82c47a9acc69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link tab-links</value>
+      <webElementGuid>f77e9b08-8642-468f-8809-e30bfef161b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#producttab316515927841dfcab3c</value>
+      <webElementGuid>d43efd93-b566-4a76-b2e2-b3eb4a657aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#producttab316515927841dfcab3c</value>
+      <webElementGuid>5cd9dc8f-3883-43b0-a508-206baddb5ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-href</name>
+      <type>Main</type>
+      <value>/collections/freemax?view=tab</value>
+      <webElementGuid>85072d63-a91b-464d-b3c6-b273cfebd91c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tab-316515927841dfcab3c</value>
+      <webElementGuid>51e22c29-8bb5-4b28-91c3-d0a40f3e8b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>316515927841dfcab3c</value>
+      <webElementGuid>2b8c4da9-a887-455a-b51a-49898972e3c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>8e765b24-5d69-4602-a711-f43bebd778f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>7681b2fc-ce76-4288-8786-fddef3077d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								
+									
+									Freemax
+								
+							</value>
+      <webElementGuid>a6748fd5-be06-4f75-8245-cf57e6a96540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-316515927841dfcab3c&quot;)</value>
+      <webElementGuid>42ca5791-bbab-40b4-a175-34b5a5b7f8df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='tab-316515927841dfcab3c']</value>
+      <webElementGuid>9b56dc39-6b5a-408e-b340-bf6688b7cad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-16515927841dfcab3c']/div/div/ul/li[3]/a</value>
+      <webElementGuid>cbf002b6-96fb-4a56-a6ff-fc3a980af8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAPORESSO'])[1]/following::a[1]</value>
+      <webElementGuid>6248c3a7-664b-4254-86e4-9d193a89d16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GEEKVAPE'])[1]/following::a[2]</value>
+      <webElementGuid>c45b93f6-0b1e-464e-b0d8-f14fc80aeca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innokin'])[1]/preceding::a[1]</value>
+      <webElementGuid>13686704-8f2a-4dfe-bce4-1d04e9d928b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#producttab316515927841dfcab3c')]</value>
+      <webElementGuid>7568d0e2-019e-4b61-a9b4-e2b5f228e2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/ul/li[3]/a</value>
+      <webElementGuid>41df10bb-cd0a-4af2-8623-5b699b546ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#producttab316515927841dfcab3c' and @id = 'tab-316515927841dfcab3c' and (text() = '
+								
+									
+									Freemax
+								
+							' or . = '
+								
+									
+									Freemax
+								
+							')]</value>
+      <webElementGuid>8e96ff87-44f8-4e68-84dc-f2ddbe4baa5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

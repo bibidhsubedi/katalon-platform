@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Innokin</name>
+   <tag></tag>
+   <elementGuidId>c1110765-7375-4039-87d9-4ac8d3174549</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-416515927841dfcab3c > div.content-nav > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-416515927841dfcab3c']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>01aca0cb-7503-4ef3-9348-3e9f370d32a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Innokin</value>
+      <webElementGuid>0b1976ca-bb95-4789-b98a-9eb982b05865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-416515927841dfcab3c&quot;)/div[@class=&quot;content-nav&quot;]/span[1]</value>
+      <webElementGuid>18577bc5-b8d9-4b5e-be7c-3a1075fdb71c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='tab-416515927841dfcab3c']/div/span</value>
+      <webElementGuid>060ad812-1ec1-48b6-8b08-7dc6bbf33765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freemax'])[1]/following::span[1]</value>
+      <webElementGuid>87349ec7-52cd-4e46-a6bc-885310c2d262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VAPORESSO'])[1]/following::span[2]</value>
+      <webElementGuid>85389fc6-b278-456a-a03f-2994b2ad69e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uwell'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca1893cc-54aa-4880-b758-9782776a8d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boundless'])[1]/preceding::span[2]</value>
+      <webElementGuid>6c872815-b679-46ce-b1ad-ab84a71b0629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Innokin']/parent::*</value>
+      <webElementGuid>33912389-289e-456f-869e-927100b2fd1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div/span</value>
+      <webElementGuid>eb14cf31-4c23-47dd-97af-00d7322c4638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Innokin' or . = 'Innokin')]</value>
+      <webElementGuid>26e18dff-9e22-4892-99f2-149e2ecb6284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

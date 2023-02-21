@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Boundless</name>
+   <tag></tag>
+   <elementGuidId>dd64db2e-df10-4eb1-8f3a-1cc7ce20b5ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-616515927841dfcab3c > div.content-nav > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-616515927841dfcab3c']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>048456ca-be0a-4bc7-b432-b06f472a7557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Boundless</value>
+      <webElementGuid>2a452a31-2335-4138-987c-4605d27341cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-616515927841dfcab3c&quot;)/div[@class=&quot;content-nav&quot;]/span[1]</value>
+      <webElementGuid>d8200bc6-3eb6-423c-a7b4-2a243ac2d3f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='tab-616515927841dfcab3c']/div/span</value>
+      <webElementGuid>4215c55d-ecf7-47af-a476-bd1367c570cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uwell'])[1]/following::span[1]</value>
+      <webElementGuid>062371a0-ec09-4578-9c05-5ed14d2f3aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innokin'])[1]/following::span[2]</value>
+      <webElementGuid>0023b6a4-aa05-457b-9688-8f4ab1fb5bc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geekvape Zeus coil (Z COIL)'])[1]/preceding::span[2]</value>
+      <webElementGuid>72a04ebf-e22e-4504-9017-23614b13c5b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$22.90'])[1]/preceding::span[2]</value>
+      <webElementGuid>0d7cf7b0-0b5c-4607-8b96-e0fa3a074cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Boundless']/parent::*</value>
+      <webElementGuid>83c530dd-72b4-4810-b03e-e06bc7b57ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div/span</value>
+      <webElementGuid>6fc00d1b-3f5d-4679-8ced-18b346c1b625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Boundless' or . = 'Boundless')]</value>
+      <webElementGuid>135a150a-0d9c-4a75-8fbf-e0ed754062d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

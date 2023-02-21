@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Uwell</name>
+   <tag></tag>
+   <elementGuidId>61de26b7-7a2a-4c13-ac01-cbec2a6bd065</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-516515927841dfcab3c > div.content-nav > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-516515927841dfcab3c']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ed37c09-7978-4538-9ec5-e2c4d93b8503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Uwell</value>
+      <webElementGuid>28810966-45a9-4506-8fce-89ce00afdb09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-516515927841dfcab3c&quot;)/div[@class=&quot;content-nav&quot;]/span[1]</value>
+      <webElementGuid>6655a262-9fe6-4503-8393-1d9e7870158d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='tab-516515927841dfcab3c']/div/span</value>
+      <webElementGuid>e1690d15-4073-4fd3-a5d7-cdf174fbbe5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Innokin'])[1]/following::span[1]</value>
+      <webElementGuid>9283b1d9-7e49-4623-a30b-2d5305b0f2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freemax'])[1]/following::span[2]</value>
+      <webElementGuid>570c387e-57a9-4511-8843-50caa6c27c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Boundless'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0b1c6c9-1e91-435e-810a-26ab3be9bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Geekvape Zeus coil (Z COIL)'])[1]/preceding::span[3]</value>
+      <webElementGuid>d76ba33d-1c17-4505-bfb3-f1e2fcd67e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Uwell']/parent::*</value>
+      <webElementGuid>fe3342c5-8585-408a-9d4b-07aa73c6cda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/div/span</value>
+      <webElementGuid>ec006caf-c468-418b-b29f-95d91a1b934f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Uwell' or . = 'Uwell')]</value>
+      <webElementGuid>90e0ded9-ec06-4348-b4cf-b0d92968c750</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

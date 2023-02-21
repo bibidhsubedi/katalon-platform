@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop 60ml E-liquids</name>
+   <tag></tag>
+   <elementGuidId>1efaef08-99aa-4afb-a2c8-4bcf8b55ea23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-uppercase</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-1624437771e6fd7ada']/div/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>40ff9995-7040-4e08-9447-0a76bb1e2888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/collections/e-liquids</value>
+      <webElementGuid>386aa49a-d4e1-4e9f-b5e8-6b2a97be995d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-uppercase</value>
+      <webElementGuid>e7b52796-538c-471d-aba4-b84ada93e2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop 60ml E-liquids</value>
+      <webElementGuid>131ae98c-985c-4774-bcb9-06ded97990ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-1624437771e6fd7ada&quot;)/div[@class=&quot;distance&quot;]/div[@class=&quot;row spacing-0&quot;]/div[@class=&quot;col-lg-4 col-md-4 col-xs-12 gallery-image_column hover-image&quot;]/div[@class=&quot;gallery-image__item lazyloaded&quot;]/div[@class=&quot;gallery-image__caption&quot;]/div[@class=&quot;button-block&quot;]/a[@class=&quot;text-uppercase&quot;]</value>
+      <webElementGuid>e0cab9ab-55a8-447e-b936-b69aaf2a1beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-1624437771e6fd7ada']/div/div/div/div/div/div/a</value>
+      <webElementGuid>7a3c2d38-d710-4ae6-a4c1-999e30b1d9b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shop 60ml E-liquids')]</value>
+      <webElementGuid>ac75a499-8588-4fff-a2fc-071389bb3225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get 1 Free'])[1]/following::a[2]</value>
+      <webElementGuid>a3a47ff0-05cd-4bf1-8ac8-a48bb2c7ec05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy 2 Vape Station E-liquids'])[1]/following::a[2]</value>
+      <webElementGuid>1eaa0301-aff2-49f9-bba8-6bfc140bd3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop 100ml E-Liquids'])[1]/preceding::a[2]</value>
+      <webElementGuid>5826792d-fd00-47d3-8941-2620765e1c68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop 60ml E-liquids']/parent::*</value>
+      <webElementGuid>67f92e25-ba4a-433e-9990-76a88ea1921d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/collections/e-liquids')])[3]</value>
+      <webElementGuid>e6d63ddf-b7d5-456a-bdf9-30948209cc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div/div/div/div/div/a</value>
+      <webElementGuid>4023891e-38d0-4862-a35f-c60b4beba917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/collections/e-liquids' and (text() = 'Shop 60ml E-liquids' or . = 'Shop 60ml E-liquids')]</value>
+      <webElementGuid>86e75b93-f764-4a22-9110-0f7f031bc327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

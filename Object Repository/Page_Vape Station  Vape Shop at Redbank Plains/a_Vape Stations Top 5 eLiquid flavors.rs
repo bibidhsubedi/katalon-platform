@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vape Stations Top 5 eLiquid flavors</name>
+   <tag></tag>
+   <elementGuidId>4dca5180-e9f7-4300-acd6-1ec864d57831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.article__title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-1662516317e1e4009b']/div/div/div[2]/div/div/div/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9109b9af-4393-44a0-bbb0-abd5fda9775a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blogs/new-blogs/vape-stations-top-5-eliquid-flavors</value>
+      <webElementGuid>aec2c63b-3744-43de-a032-53c874f5927b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>549b598f-0c2b-41a6-ae55-3daaadcdc51f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vape Station's Top 5 eLiquid flavors</value>
+      <webElementGuid>b2118bfd-4c65-4551-9f78-b34cd33d27ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-1662516317e1e4009b&quot;)/div[@class=&quot;distance&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;slider grid--view-items row nov-slick-carousel slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;item col slick-slide slick-current slick-active zoomimg timer&quot;]/div[@class=&quot;article--listing hover-image&quot;]/div[@class=&quot;media-body text-center&quot;]/h2[@class=&quot;article__title&quot;]/a[1]</value>
+      <webElementGuid>010bc8fd-6c6d-4a6b-afc2-5d22f64c1282</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-1662516317e1e4009b']/div/div/div[2]/div/div/div/div/div/h2/a</value>
+      <webElementGuid>e6284d61-b6a5-45e3-8a22-64ba8e4283ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Our Latest Blogs'])[1]/following::a[2]</value>
+      <webElementGuid>65c19b20-d38d-4272-8a30-cccbf1090b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$12.95'])[1]/following::a[4]</value>
+      <webElementGuid>efdac14b-905e-4107-88db-e051aa75199a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='October 26 2022'])[1]/preceding::a[1]</value>
+      <webElementGuid>d1109d17-8440-4d58-b2be-c295292df9cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read More'])[1]/preceding::a[1]</value>
+      <webElementGuid>d6609a7f-6299-4e3c-a42a-cc89f1541495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/blogs/new-blogs/vape-stations-top-5-eliquid-flavors')])[2]</value>
+      <webElementGuid>16d8e048-d884-481d-8fd7-fd9626b5fc23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/a</value>
+      <webElementGuid>fa852d6e-376b-4752-8435-6e3f4495d07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blogs/new-blogs/vape-stations-top-5-eliquid-flavors' and (text() = concat(&quot;Vape Station&quot; , &quot;'&quot; , &quot;s Top 5 eLiquid flavors&quot;) or . = concat(&quot;Vape Station&quot; , &quot;'&quot; , &quot;s Top 5 eLiquid flavors&quot;))]</value>
+      <webElementGuid>c4d5d2e6-e038-4968-bbcf-0b3c4baf76d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
